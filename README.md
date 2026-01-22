@@ -23,6 +23,9 @@ The CIMP canon defines:
 - invariants
 - governance principles
 
+The canonical source of truth lives in the main CIMP repository:
+👉 https://github.com/cimpai/cimp
+
 This repository provides:
 - example forms
 - practical heuristics
