@@ -7,6 +7,12 @@ This repository is **not part of the CIMP canon**.
 
 It exists to reduce friction, not to enforce process.
 
+These practices are optional starting points
+for applying the CIMP Canon in real systems.
+
+Use what fits your context.
+Skip or adapt the rest.
+
 ---
 
 ## Relationship to the canon
@@ -51,7 +57,10 @@ The canon does not.
 ## Structure
 
 - `templates/` — minimal document templates (one possible form)
+  - [`CHANGE_PLAN.md`](./templates/CHANGE_PLAN.md) — template for change planning
+  - [`INCIDENT.md`](./templates/INCIDENT.md) — template for incident documentation
 - `practices/` — short guides based on real usage
+  - See [practices/README.md](./practices/README.md) for available guides
 
 ---
 
@@ -60,3 +69,9 @@ The canon does not.
 This repository evolves independently.
 
 Breaking changes here do **not** imply changes to the CIMP canon.
+
+---
+
+## License
+
+Apache License 2.0
