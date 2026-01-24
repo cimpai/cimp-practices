@@ -20,11 +20,7 @@ and are **not part of the CIMP Canon**.
 
 ## Relationship to the Canon
 
-The CIMP Canon defines:
-- concepts
-- boundaries
-- invariants
-- lifecycles
+Canonical concepts, boundaries, invariants, and lifecycles are defined in the CIMP Canon and the root `README.md`.
 
 Practices exist **downstream** of the Canon.
 
