@@ -5,7 +5,7 @@ for applying the CIMP canon in real systems.
 
 This repository is **not part of the CIMP canon**.
 
-It exists to reduce friction, not to enforce process.
+It exists to reduce friction and capture learning, not to enforce process.
 
 These practices are optional starting points
 for applying the CIMP Canon in real systems.
